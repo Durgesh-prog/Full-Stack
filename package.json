@@ -1,0 +1,14 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "Simple full stack application",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Durgesh Goswami",
+  "license": "ISC",
+  "engines": {
+    "node": "12.13.0"
+  }
+}
