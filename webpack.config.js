@@ -15,8 +15,7 @@ module.exports = {
 		publicPath:'/'
 	},
 	plugins: [
-		new webpack.HotModuleReplacementPlugin(),
-		 new CleanWebpackPlugin(),
+		 
 		 new HtmlWebpackPlugin({
 			title: 'Development',
 			template:'./index.html'

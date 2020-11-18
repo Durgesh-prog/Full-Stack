@@ -1,0 +1,22 @@
+body{
+	background:url(assets/Bg.png);
+}
+
+::placeholder{
+	color:Orange;
+	opacity:1;
+}
+
+.logo-image{
+	display:flex;
+	justify-content:flex-start;
+	height:90%;
+	width:3rem;
+	margin-right:1rem;
+	margin-top:0.25rem;
+}
+
+nav ul a:hover{
+	background-color:#ee6e73;
+}
+
